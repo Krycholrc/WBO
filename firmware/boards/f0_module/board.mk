@@ -1,4 +1,4 @@
-USE_BOOTLOADER = no
+USE_BOOTLOADER = yes
 
 MCU = cortex-m0
 
